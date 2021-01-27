@@ -4,6 +4,72 @@ body{
     color: #e2e2e2;
 }
 
+/* icons first row */
+.game-icon-dyson-sphere-component{
+    background-position:  0px 0px !important;
+}
+
+.game-icon-smelter{
+    background-position:  -64px 0px !important;
+}
+
+.game-icon-iron-ore{
+    background-position:  -128px 0px !important;
+}
+
+.game-icon-copper-ore{
+    background-position:  -192px 0px !important;
+}
+
+.game-icon-stone-ore{
+    background-position:  -256px 0px !important;
+}
+
+.game-icon-coal-ore{
+    background-position:  -320px 0px !important;
+}
+
+.game-icon-silicon-ore{
+    background-position:  -384px 0px !important;
+}
+
+.game-icon-titanium-ore{
+    background-position:  -448px 0px !important;
+}
+
+.game-icon-water{
+    background-position:  -512px 0px !important;
+}
+
+.game-icon-crude-oil{
+    background-position:  -576px 0px !important;
+}
+
+.game-icon-hydrogen{
+    background-position:  -640px 0px !important;
+}
+
+.game-icon-deuterium{
+    background-position:  -704px 0px !important;
+}
+
+.game-icon-antimatter{
+    background-position:  -768px 0px !important;
+}
+
+.game-icon-kimberlite-ore{
+    background-position:  -832px 0px !important;
+}
+
+.game-icon-iron-ingot{
+    background-position:  -896px 0px !important;
+}
+
+.game-icon-copper-ingot{
+    background-position:  -960px 0px !important;
+}
+
+/* icons second row */
 .game-icon-dyson-sphere-component{
     background-position:  0px 0px !important;
 }
