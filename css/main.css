@@ -2,4 +2,10 @@ body{
     background-color: #242423;
 /*    color: #F1A900; */
     color: #e2e2e2;
+
+    div.game-icon{
+        background: url('/images/icons.png') no-repeat 0px 0px;
+        width: 64px;
+        height: 64px;
+    }
 }
