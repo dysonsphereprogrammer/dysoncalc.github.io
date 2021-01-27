@@ -5,7 +5,15 @@ body{
 }
 
 div.game-icon {
-    background: url('/images/icons.png') no-repeat 0px 0px;
+    background: url('/images/icons.png') no-repeat;
     width: 64px;
     height: 64px;
+}
+
+.game-icon-dyson-sphere-component{
+    background:  0px 0px;
+}
+
+.game-icon-smelter{
+    background:  0px 64px;
 }
