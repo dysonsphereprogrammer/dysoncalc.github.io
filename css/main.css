@@ -5,11 +5,11 @@ body{
 }
 
 .game-icon-dyson-sphere-component{
-    background-position:  0px 0px;
+    background-position:  0px 0px !important;
 }
 
 .game-icon-smelter{
-    background-position:  64px 0px;
+    background-position:  -64px 0px !important;
 }
 
 div.game-icon {
