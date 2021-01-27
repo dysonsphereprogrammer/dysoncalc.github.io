@@ -22,5 +22,6 @@ $(document).ready(function() {
     $('.game-icon').each(function(){
         var iconName = $(this).data("icon-name");
         $(this).css('background-position', iconPositionArray[iconName]);
+        console.log("Changing background of " + iconName + " to " + iconPositionArray[iconName]);
     });
   });
